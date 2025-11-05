@@ -1,11 +1,1 @@
----
 
-## 🌐 URL Aplikasi Online
-
-| Komponen | URL |
-|---------|-----|
-| 🔧 **Backend API** | http://agussiswanto7005.free.nf/agus_playground/records/pengunjung |
-| 💻 **Frontend (Read Only)** | http://agussiswanto7005.free.nf/agus_playground/frontend.html |
-| 🧩 **Frontend (CRUD Lengkap)** | http://agussiswanto7005.free.nf/agus_playground/frontend_crud.html |
-
----
