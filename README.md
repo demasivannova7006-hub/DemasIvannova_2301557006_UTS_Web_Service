@@ -6,7 +6,7 @@
 |-----------|------|
 |**Backend API** | [https://demasivannova.infinityfree.me/agendarapatapi/records/instansi](https://demasivannova.infinityfree.me/agendarapatapi/records/instansi) *untuk instansi bisa di ganti dengan nama tabel lain yang ada pada database|
 |**Frontend (Read Only)** | [(https://demasivannova.infinityfree.me/agendarapatapi/frontend.html](https://demasivannova.infinityfree.me/agendarapatapi/frontend.html) |
-|**Frontend (CRUD Lengkap)** | [(https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html](https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html) |
+|**Frontend (CRUD)** | [(https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html](https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html) |
 
 ---
 
