@@ -4,7 +4,7 @@
 ## 🌐 URL Aplikasi Online
 | Komponen | URL |
 |-----------|------|
-| 🔧 **Backend API** | [http://demasivannova.infinityfree.me/agendarapatapi/records/instansi](https://demasivannova.infinityfree.me/agendarapatapi/records/instansi) |
+| 🔧 **Backend API** | [https://demasivannova.infinityfree.me/agendarapatapi/records/instansi](https://demasivannova.infinityfree.me/agendarapatapi/records/instansi) |
 | 💻 **Frontend (Read Only)** | [http://agussiswanto7005.free.nf/agus_playground/frontend.html](http://agussiswanto7005.free.nf/agus_playground/frontend.html) |
 | 🧩 **Frontend (CRUD Lengkap)** | [http://agussiswanto7005.free.nf/agus_playground/frontend_crud.html](http://agussiswanto7005.free.nf/agus_playground/frontend_crud.html) |
 
