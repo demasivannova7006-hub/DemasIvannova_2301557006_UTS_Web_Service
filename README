@@ -1,18 +1,19 @@
+
 ---
 
 ## 🌐 URL Aplikasi Online
 | Komponen | URL |
 |-----------|------|
-| 🔧 *Backend API* | [http://agussiswanto7005.free.nf/agus_playground/records/pengunjung](http://agussiswanto7005.free.nf/agus_playground/records/pengunjung) |
-| 💻 *Frontend (Read Only)* | [http://agussiswanto7005.free.nf/agus_playground/frontend.html](http://agussiswanto7005.free.nf/agus_playground/frontend.html) |
-| 🧩 *Frontend (CRUD Lengkap)* | [http://agussiswanto7005.free.nf/agus_playground/frontend_crud.html](http://agussiswanto7005.free.nf/agus_playground/frontend_crud.html) |
+| 🔧 **Backend API** | [http://agussiswanto7005.free.nf/agus_playground/records/pengunjung](http://agussiswanto7005.free.nf/agus_playground/records/pengunjung) |
+| 💻 **Frontend (Read Only)** | [http://agussiswanto7005.free.nf/agus_playground/frontend.html](http://agussiswanto7005.free.nf/agus_playground/frontend.html) |
+| 🧩 **Frontend (CRUD Lengkap)** | [http://agussiswanto7005.free.nf/agus_playground/frontend_crud.html](http://agussiswanto7005.free.nf/agus_playground/frontend_crud.html) |
 
 ---
 
 ## ⚙️ Fitur Aplikasi
-✅ Menggunakan *PHP-CRUD-API* untuk backend  
+✅ Menggunakan **PHP-CRUD-API** untuk backend  
 ✅ CRUD penuh (Create, Read, Update, Delete)  
-✅ Desain frontend dengan *tema coklat gradasi*  
+✅ Desain frontend dengan **tema coklat gradasi**  
 ✅ Fetch API untuk komunikasi antar server  
 ✅ Database MySQL dengan minimal 10 tabel  
 ✅ Hosting di platform **(https://www.infinityfree.com/)**  
@@ -23,16 +24,16 @@
 
 | No | Nama Tabel | Keterangan |
 |----|-------------|------------|
-| 1 | pengunjung | Data anak & pendamping |
-| 2 | pegawai | Data pegawai playground |
-| 3 | tiket | Jenis & harga tiket |
-| 4 | transaksi | Riwayat pembelian tiket |
-| 5 | jadwal_kerja | Jadwal kerja pegawai |
-| 6 | jadwal_main | Jadwal kegiatan bermain |
-| 7 | wahana | Data wahana yang tersedia |
-| 8 | maintenance | Jadwal perawatan wahana |
-| 9 | feedback | Masukan / kritik pengunjung |
-| 10 | user | Akun pengguna sistem |
+| 1 | `pengunjung` | Data anak & pendamping |
+| 2 | `pegawai` | Data pegawai playground |
+| 3 | `tiket` | Jenis & harga tiket |
+| 4 | `transaksi` | Riwayat pembelian tiket |
+| 5 | `jadwal_kerja` | Jadwal kerja pegawai |
+| 6 | `jadwal_main` | Jadwal kegiatan bermain |
+| 7 | `wahana` | Data wahana yang tersedia |
+| 8 | `maintenance` | Jadwal perawatan wahana |
+| 9 | `feedback` | Masukan / kritik pengunjung |
+| 10 | `user` | Akun pengguna sistem |
 
 ---
 
@@ -66,11 +67,11 @@
 ## 🧠 Teknologi yang Digunakan
 | Komponen | Teknologi |
 |-----------|------------|
-| *Backend* | PHP 8 + PHP-CRUD-API |
-| *Frontend* | HTML5, CSS3, JavaScript (Fetch API) |
-| *Database* | MySQL |
-| *Hosting* | sql305.infinityfree.com |
-| *Version Control* | GitHub |
+| **Backend** | PHP 8 + PHP-CRUD-API |
+| **Frontend** | HTML5, CSS3, JavaScript (Fetch API) |
+| **Database** | MySQL |
+| **Hosting** | sql305.infinityfree.com |
+| **Version Control** | GitHub |
 
 ---
 
@@ -90,4 +91,3 @@ Buka frontend_crud.html → aplikasi siap digunakan
 
 📧 Email: agussiswanto7005@mhs.unisbank.ac.id
 🌐 GitHub: https://github.com/agussiswanto7005
-
