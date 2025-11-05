@@ -33,7 +33,7 @@
 
 | Tabel | Screenshot |
 |-------|-------------|
-| agenda_rapat | [BE Pengunjung](SCREENSHOOT/SC%20BE/BE%20Pengunjung.png?raw=true) |
+| agenda_rapat | [BE agenda_rapat](Screenshot/BE%20agenda%20rapat.png) |
 | instansi | [BE Pegawai](SCREENSHOOT/SC%20BE/BE%20Pegawai.png) |
 | lampiran_rapat | [BE Tiket](SCREENSHOOT/SC%20BE/BE%20Tiket.png) |
 | notulen | [BE Transaksi](SCREENSHOOT/SC%20BE/BE%20Transaksi.png) |
