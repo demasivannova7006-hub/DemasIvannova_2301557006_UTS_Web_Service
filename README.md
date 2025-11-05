@@ -4,36 +4,26 @@
 ## 🌐 URL Aplikasi Online
 | Komponen | URL |
 |-----------|------|
-| 🔧 **Backend API** | [https://demasivannova.infinityfree.me/agendarapatapi/records/instansi](https://demasivannova.infinityfree.me/agendarapatapi/records/instansi) *untuk instansi bisa di ganti dengan nama tabel lain yang ada pada database|
-| 💻 **Frontend (Read Only)** | [(https://demasivannova.infinityfree.me/agendarapatapi/frontend.html](https://demasivannova.infinityfree.me/agendarapatapi/frontend.html) |
-| 🧩 **Frontend (CRUD Lengkap)** | [(https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html](https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html) |
-
----
-
-## ⚙️ Fitur Aplikasi
-✅ Menggunakan **PHP-CRUD-API** untuk backend  
-✅ CRUD penuh (Create, Read, Update, Delete)  
-✅ Desain frontend dengan **tema coklat gradasi**  
-✅ Fetch API untuk komunikasi antar server  
-✅ Database MySQL dengan minimal 10 tabel  
-✅ Hosting di platform **(https://www.infinityfree.com/)**  
+|**Backend API** | [https://demasivannova.infinityfree.me/agendarapatapi/records/instansi](https://demasivannova.infinityfree.me/agendarapatapi/records/instansi) *untuk instansi bisa di ganti dengan nama tabel lain yang ada pada database|
+|**Frontend (Read Only)** | [(https://demasivannova.infinityfree.me/agendarapatapi/frontend.html](https://demasivannova.infinityfree.me/agendarapatapi/frontend.html) |
+|**Frontend (CRUD Lengkap)** | [(https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html](https://demasivannova.infinityfree.me/agendarapatapi/frontendcrud.html) |
 
 ---
 
 ## 🧮 Daftar Tabel Database
 
-| No | Nama Tabel | Keterangan |
-|----|-------------|------------|
-| 1 | `pengunjung` | Data anak & pendamping |
-| 2 | `pegawai` | Data pegawai playground |
-| 3 | `tiket` | Jenis & harga tiket |
-| 4 | `transaksi` | Riwayat pembelian tiket |
-| 5 | `jadwal_kerja` | Jadwal kerja pegawai |
-| 6 | `jadwal_main` | Jadwal kegiatan bermain |
-| 7 | `wahana` | Data wahana yang tersedia |
-| 8 | `maintenance` | Jadwal perawatan wahana |
-| 9 | `feedback` | Masukan / kritik pengunjung |
-| 10 | `user` | Akun pengguna sistem |
+| No | Nama Tabel |
+|----|-------------|
+| 1 | `agenda_rapat` |
+| 2 | `instansi` |
+| 3 | `lampiran_rapat` |
+| 4 | `notulen` |
+| 5 | `peserta_rapat` | 
+| 6 | `rapat` |
+| 7 | `roles` |
+| 8 | `ruangan` |
+| 9 | `users` |
+| 10 | `user_roles` |
 
 ---
 
@@ -43,52 +33,23 @@
 
 | Tabel | Screenshot |
 |-------|-------------|
-| Pengunjung | [BE Pengunjung](SCREENSHOOT/SC%20BE/BE%20Pengunjung.png?raw=true) |
-| Pegawai | [BE Pegawai](SCREENSHOOT/SC%20BE/BE%20Pegawai.png) |
-| Tiket | [BE Tiket](SCREENSHOOT/SC%20BE/BE%20Tiket.png) |
-| Transaksi | [BE Transaksi](SCREENSHOOT/SC%20BE/BE%20Transaksi.png) |
-| Jadwal Kerja | [BE Jadwal_kerja](SCREENSHOOT/SC%20BE/BE%20Jadwal_kerja.png) |
-| Jadwal Main | [BE Jadwal_main](SCREENSHOOT/SC%20BE/BE%20Jadwal_main.png) |
-| Wahana | [BE Wahana](SCREENSHOOT/SC%20BE/BE%20Wahana.png) |
-| Maintenance | [BE Maintenance](SCREENSHOOT/SC%20BE/BE%20Maintenance.png) |
-| Feedback | [BE Feedback](SCREENSHOOT/SC%20BE/BE%20Feedback.png) |
-| User | [BE User](SCREENSHOOT/SC%20BE/BE%20User.png) |
+| agenda_rapat | [BE Pengunjung](SCREENSHOOT/SC%20BE/BE%20Pengunjung.png?raw=true) |
+| instansi | [BE Pegawai](SCREENSHOOT/SC%20BE/BE%20Pegawai.png) |
+| lampiran_rapat | [BE Tiket](SCREENSHOOT/SC%20BE/BE%20Tiket.png) |
+| notulen | [BE Transaksi](SCREENSHOOT/SC%20BE/BE%20Transaksi.png) |
+| peserta_rapat | [BE Jadwal_kerja](SCREENSHOOT/SC%20BE/BE%20Jadwal_kerja.png) |
+| rapat | [BE Jadwal_main](SCREENSHOOT/SC%20BE/BE%20Jadwal_main.png) |
+| roles | [BE Wahana](SCREENSHOOT/SC%20BE/BE%20Wahana.png) |
+| ruangan | [BE Maintenance](SCREENSHOOT/SC%20BE/BE%20Maintenance.png) |
+| users | [BE Feedback](SCREENSHOOT/SC%20BE/BE%20Feedback.png) |
+| user_roles | [BE User](SCREENSHOOT/SC%20BE/BE%20User.png) |
 
 ---
 
 ### 🔸 Frontend (Tampilan Aplikasi)
 | Tampilan | Screenshot |
 |-----------|-------------|
-| Halaman Utama | [Frontend](SCREENSHOOT/SC%20FE/frontend.png) |
-| CRUD Lengkap | [Frontend CRUD](SCREENSHOOT/SC%20FE/frontend_Crud.png) |
+| Frontend | [Frontend](SCREENSHOOT/SC%20FE/frontend.png) |
+| Frontend dengan CRUD | [Frontend CRUD](SCREENSHOOT/SC%20FE/frontend_Crud.png) |
 
 ---
-
-## 🧠 Teknologi yang Digunakan
-| Komponen | Teknologi |
-|-----------|------------|
-| **Backend** | PHP 8 + PHP-CRUD-API |
-| **Frontend** | HTML5, CSS3, JavaScript (Fetch API) |
-| **Database** | MySQL |
-| **Hosting** | sql305.infinityfree.com |
-| **Version Control** | GitHub |
-
----
-
-## 🚀 Cara Menjalankan
-1. Clone / download repository ini  
-   ```bash
-   git clone https://github.com/agussiswanto7005/2301557005_AgusSiswanto_UTS_WebService.git
-2. Pastikan server lokal (XAMPP/Laragon) aktif
-
-3. Import database MySQL sesuai tabel di atas
-
-4. Jalankan backend (PHP CRUD API)
-
-Buka frontend_crud.html → aplikasi siap digunakan
-
-📬 Kontak
-
-📧 Email: agussiswanto7005@mhs.unisbank.ac.id
-🌐 GitHub: https://github.com/agussiswanto7005
-
